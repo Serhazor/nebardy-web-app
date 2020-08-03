@@ -17,7 +17,7 @@ class Navbar extends Component{
     render() {
         return(
             <nav className="NavbarItems">
-                <h1 className="navbar-logo">Alex Si Fitness
+                <h1 className="navbar-logo">НебардЫ
                     {/* <i className="fab fa-react">
 
                     </i>*/} 

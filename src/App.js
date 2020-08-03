@@ -1,13 +1,14 @@
 import React from 'react';
 import Navbar from "./components/Navbar/Navbar";
 import './App.css';
-//import bodyColor from "./components/bodyColor";
+
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
-      //<bodyColor />
       <Navbar />
+      
     </div>
   );
 }
